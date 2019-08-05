@@ -46,22 +46,22 @@
             android:layout_height="10dp"
             android:background="@drawable/corner_left"
             android:layout_marginStart="3dp"
-            android:layout_marginEnd="2dp"
+            android:layout_marginEnd="1dp"
             android:layout_weight="1"/>
         <FrameLayout
             android:id="@+id/piece2"
             android:layout_width="0dp"
             android:layout_height="10dp"
             android:background="@color/colorPiece2"
-            android:layout_marginStart="2dp"
-            android:layout_marginEnd="2dp"
+            android:layout_marginStart="1dp"
+            android:layout_marginEnd="1dp"
             android:layout_weight="1"/>
         <FrameLayout
             android:id="@+id/piece3"
             android:layout_width="0dp"
             android:layout_height="10dp"
             android:background="@drawable/corner_right"
-            android:layout_marginStart="2dp"
+            android:layout_marginStart="1dp"
             android:layout_marginEnd="3dp"
             android:layout_weight="1"/>
     </LinearLayout>
