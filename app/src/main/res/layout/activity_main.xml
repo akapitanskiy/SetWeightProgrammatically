@@ -38,7 +38,8 @@
     <LinearLayout
         android:id="@+id/linLayAsBar"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:paddingTop="30dp">
         <FrameLayout
             android:id="@+id/piece1"
             android:layout_width="0dp"
